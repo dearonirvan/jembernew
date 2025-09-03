@@ -3,12 +3,12 @@
   "show_after": "2025-08-04",
   "force_update": true,
   "title": "Sekilas Info",
-  "message": "Kucing kurap mandi di papan... Ah sudahlah...🤪",
-  "link_text": "TTD : DEARON IRVAN",
+  "message": "Masa pakai gratisnya sudah habis, silahkan berlangganan dan pencet tombol dibawah utk menghubungi admin",
+  "link_text": "Pencet Tombol Dibawah Ini ",
   "link_url": "https://t.me/+6BPuxAEhOqpiYmY1",
   "buttons": [
     {
-      "text": "----",
+      "text": "Hub.i Admin",
       "action": "url",
       "target": "https://t.me/+6BPuxAEhOqpiYmY1",
       "style": "primary"
