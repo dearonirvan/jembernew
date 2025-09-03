@@ -1,7 +1,10 @@
 {
-  "version"
-  "title": "New Update Available",
-  "subtitle": "Update Your Application",
-  "closeButton": false,
+  "credit": "DEV. DarkIT",
+  "show_dialog": true,
+  "title": "🚀 Update Available",
+  "subtitle": "✨ Silahkan kontak ADMIN ✨",
+  "whatsnew": "Masa berlaku aplikasinya/n TELAH BERAKHIR/n Silahkan menghubungi ADMIN/n Menggunakan tombol dibawah ini",
+  "btn_update": "Hub.i Admin",
+  "btn_exit": "Exit",
   "link": "https://t.me/+6BPuxAEhOqpiYmY1"
 }
