@@ -1,22 +1,7 @@
 {
-  "enabled": true,
-  "show_after": "2025-08-04",
-  "force_update": true,
-  "title": "Sekilas Info",
-  "message": "Masa pakai gratisnya sudah habis, silahkan berlangganan dan pencet tombol dibawah utk menghubungi admin",
-  "link_text": "Pencet Tombol Dibawah Ini ",
-  "link_url": "https://t.me/+6BPuxAEhOqpiYmY1",
-  "buttons": [
-    {
-      "text": "Hub.i Admin",
-      "action": "url",
-      "target": "https://t.me/+6BPuxAEhOqpiYmY1",
-      "style": "primary"
-    },
-    {
-      "text": "Tutup",
-      "action": "dismiss",
-      "style": "secondary"
-    }
-  ]
+  "version": 7,
+  "title": "New Update Available",
+  "subtitle": "Update Your Application",
+  "closeButton": false,
+  "link": "https://www.dpmods.com"
 }
